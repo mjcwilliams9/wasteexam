@@ -1,0 +1,35 @@
+navigatiestructuur wastemanagement systeem
+1.inname --bon afdrukken
+1.verwerking--onderdelen verwerken, afdrukken ingenomen app.
+1.uitgifte --vrachtbrief ,afdrukken
+1.rapportage --inkoop,afdrukken
+1.rapportage --werkvoorraad,afdrukken
+1.rapportage --verkoop,afdrukken
+1.rapportage --rendement,afdrukken
+1.onderhoud --apparaten, afdrukken,samenstellen--bewerken+afdrukken
+1.onderhoud --onderdelen--bewerken+afdrukken
+1.onderhoud --innames--bewerken+afdrukken
+1.onderhoud --uitgiftes--bewerken+afdrukken
+ReMaS superior waste recycling
+inloggen en uitloggen
+na inloggen --menu met keuzeopties voor verschillende functionaliteiten
+
+1.algemen medewerker
+2.medewerker inname
+3.medewerker verwerking
+4.medewerker uitgifte
+5.applicatie beheerder
+6.administrator
+inname -2,5
+verwerking - 3,5
+uitgifte - 4,5
+rapportage - 1,2,3,4,5
+onderhoud - 5,6
+gebruikersbeheer - 6
+
+onderhoud -- gebruikers, rollen, apparaten, onderdelen, innames, uitgiftes
+bewaren + annuleren
+
+
+
+
